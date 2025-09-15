@@ -1,6 +1,0 @@
-Softwarem Development,20,86
-Operating System,16,74
-Web and Mobile,18,64
-Computer Ethic,10,88
-C++,20,70
-Math,20,73
